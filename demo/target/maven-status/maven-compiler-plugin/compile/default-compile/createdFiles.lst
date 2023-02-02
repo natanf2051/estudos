@@ -1,0 +1,5 @@
+src\Admin.class
+DAO\CadastroDAO.class
+DAO\ICadastroDAO.class
+src\App.class
+src\Cadastro.class
